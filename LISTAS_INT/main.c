@@ -8,6 +8,4 @@ int main(void){
     return 0;
 }
 
-
-
-//teste teestee testeeee
+//
